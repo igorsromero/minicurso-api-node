@@ -1,0 +1,16 @@
+{
+  "name": "controle-alunos",
+  "version": "1.0.0",
+  "description": "Api desenvolvida no minicurso de API Rest com Node, como forma de estudo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Igor Solfa Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
